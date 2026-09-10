@@ -1,16 +1,37 @@
-## Hi there 👋
+# Adverse
 
-<!--
-**Adverse-in/adverse-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Performance Marketing • Web Development • Digital Growth
 
-Here are some ideas to get you started:
+Adverse is a performance marketing and digital development agency helping businesses build a stronger online presence and turn attention into measurable growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We work across:
+
+- 🚀 Performance Marketing
+- 📈 Lead Generation
+- 🎯 Meta & Google Ads
+- 🌐 Website Development
+- 🛒 E-commerce Development
+- ⚙️ Automation & Digital Solutions
+- 🎨 Creative & Social Media
+
+---
+
+## What We Build
+
+From high-converting landing pages to complete digital systems, we combine marketing, design, and technology to help businesses grow.
+
+### Our Focus
+
+**Marketing → Design → Development → Growth**
+
+---
+
+## Connect With Us
+
+🌐 [adverse.in](https://adverse.in)
+
+📸 [Instagram](https://www.instagram.com/adverse.in)
+
+---
+
+© Adverse. All rights reserved.
