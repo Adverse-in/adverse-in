@@ -28,7 +28,6 @@ From high-converting landing pages to complete digital systems, we combine marke
 
 ## Connect With Us
 
-🌐 [adverse.in](https://adverse.in)
 
 📸 [Instagram](https://www.instagram.com/adverse.in)
 
